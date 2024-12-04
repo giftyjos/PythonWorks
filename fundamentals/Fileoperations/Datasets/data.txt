@@ -1,0 +1,7 @@
+text
+to
+print
+
+
+ file operaion----read,write,append
+ list,dic used
